@@ -9,9 +9,9 @@
     "buildVersion": "286"
   },
   "asset": {
-    "name": "Apollo-Reborn-3.0.0-GLASS-com.nhanpham.ApolloReborn.ipa",
-    "size": 138883128,
-    "sha256": "c12e6429ac4af0d6cacd24c0775d4476039801877eb6a7a2eb6efd46952aeaf1",
-    "downloadURL": "https://github.com/nhaneezy/apollo-reborn-dist-b601f358/releases/download/v1.15.11_3.0.0/Apollo-Reborn-3.0.0-GLASS-com.nhanpham.ApolloReborn.ipa"
+    "name": "Apollo-Reborn-3.0.0-GLASS-com.nhanpham.ApolloReborn-r2.ipa",
+    "size": 138718515,
+    "sha256": "6d9ae9f5e5976eb56d8aca219269cf2c2d91b28cd181ca80842f4b9131dd6499",
+    "downloadURL": "https://github.com/nhaneezy/apollo-reborn-dist-b601f358/releases/download/v1.15.11_3.0.0/Apollo-Reborn-3.0.0-GLASS-com.nhanpham.ApolloReborn-r2.ipa"
   }
 }
