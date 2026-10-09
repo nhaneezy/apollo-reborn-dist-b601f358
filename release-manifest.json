@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-13T03:24:58Z",
+  "updatedAt": "2026-09-25T02:15:27Z",
   "sourceURL": "https://raw.githubusercontent.com/nhaneezy/apollo-reborn-dist-b601f358/main/apps.json",
   "release": {
-    "tag": "v1.15.11_3.7.1",
+    "tag": "v1.15.11_3.8.0",
     "upstreamRepo": "Apollo-Reborn/Apollo-Reborn",
     "bundleIdentifier": "com.nhanpham.ApolloReborn",
-    "version": "3.7.1",
-    "buildVersion": "298"
+    "version": "3.8.0",
+    "buildVersion": "299"
   },
   "asset": {
-    "name": "Apollo-Reborn-3.7.1-GLASS-com.nhanpham.ApolloReborn.ipa",
-    "size": 124436018,
-    "sha256": "61ba88663191b5be6bf3facb82643ad2e7b9adc7bea6da36c6fb0f5822186c28",
-    "downloadURL": "https://github.com/nhaneezy/apollo-reborn-dist-b601f358/releases/download/v1.15.11_3.7.1/Apollo-Reborn-3.7.1-GLASS-com.nhanpham.ApolloReborn.ipa"
+    "name": "Apollo-Reborn-3.8.0-GLASS-com.nhanpham.ApolloReborn.ipa",
+    "size": 124856125,
+    "sha256": "e7478746fdf61622bd2c75bf5db8cf39ec17d7cb0762ce1841dac358ea3b6190",
+    "downloadURL": "https://github.com/nhaneezy/apollo-reborn-dist-b601f358/releases/download/v1.15.11_3.8.0/Apollo-Reborn-3.8.0-GLASS-com.nhanpham.ApolloReborn.ipa"
   }
 }
